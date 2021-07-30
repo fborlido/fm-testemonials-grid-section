@@ -40,8 +40,7 @@ Here are the screenshots of my solution:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live Site URL](https://fborlido.github.io/fm-testemonials-grid-section/)
 
 ## My process
 
